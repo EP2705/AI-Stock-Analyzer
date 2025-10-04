@@ -9,7 +9,7 @@ This is a web application that combines traditional stock chart analysis with an
 
 ### Core Features
 - **Stock Charting:** Displays historical price data with 50-day and 200-day Simple Moving Averages (SMAs)
-- **AI-Powered Q&A:** An integrated chatbot that can answer questions by searching the web in real-time
+- **AI-Powered Q&A:** An integrated chatbot that can answer questions by searching the web in real time
 - **Interactive UI:** Interface built with Streamlit
 
 ### Tech Stack
